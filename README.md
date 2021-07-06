@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahulKharapkar
-- 👀 I’m interested in Full stack web development and app development as well
-- 🌱 I’m currently learning video editing in filmora and a spring framework for java
+- 👀 Interested in Full stack web development.
+- 🌱 Currently learning Angular and a spring framework for java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
