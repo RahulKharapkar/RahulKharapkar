@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahulKharapkar
 - 👀 Interested in Full stack web development.
-- 🌱 Currently learning Angular and a spring framework for java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Currently learning Angular and a spring framework in java
+- 💞️ I’m looking to collaborate on springboot rest APIs
 - 📫 How to reach me ...
 
 <!---
