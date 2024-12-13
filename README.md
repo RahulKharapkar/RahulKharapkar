@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RahulKharapkar
 - 👀 Interested in Full stack web development.
-- 🌱 Currently learning  spring framework in java
-- 💞️ I’m looking to collaborate on springboot rest APIs
-- 📫 How to reach me ...
+- 🌱 Currently learning   spring security ,spring boot , spring cloud, microservices.
+- 💞️ I’m looking to collaborate on springboot rest APIs.
 
 <!---
 RahulKharapkar/RahulKharapkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
