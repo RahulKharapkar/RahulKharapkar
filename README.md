@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate **Java Full Stack Developer** with a stro
 ---
 
 ## 👀 About Me  
-- 💼 **Senior Software Engineer** with 2.4 years of experience in designing, developing, and enhancing software solutions.  
+- 💼 **Senior Software Engineer** with 3 years of experience in designing, developing, and enhancing software solutions.  
 - 🌱 Currently mastering **Spring Security**, **Spring Boot**, **Spring Cloud**, and **Microservices** to refine my backend expertise.  
 - 💻 Enthusiastic about **React** for dynamic and intuitive front-end development.  
 - 🏀 Outside of coding, I enjoy staying active through **daily exercise** and playing **basketball on weekends**.  
