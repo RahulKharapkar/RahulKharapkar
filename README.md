@@ -45,10 +45,14 @@ A web app for managing eBills with integrated QR code payment functionality.
 A React-based roadmap tool to help developers track and enhance their skills.  
 
 ---
+## ⭐ If You Find My Projects Helpful  
+Your support means the world to me! If any of my projects have helped you, please **leave a star** 🌟 on the repository — it inspires me to keep building and sharing!  
 
+---
 ## 📈 GitHub Stats  
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulKharapkar&show_icons=true&theme=default)  
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulKharapkar&show_icons=true&theme=graywhite)  
 
+---
 ---
 
 ## 📫 Let's Connect!  
