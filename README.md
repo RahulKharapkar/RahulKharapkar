@@ -38,7 +38,7 @@ An internal marketplace app for employees to seek or offer services, products, o
 ### [JUnit Test Builder](https://github.com/RahulKharapkar/JUnitTestBuilder)
 Generates test cases covering all the scenarios of your java code.
 
-### [Email Writer Assistant](https://rahulkharapkar.github.io/Email_Writer_Assistant/)  
+### [Email Writer Assistant](https://github.com/RahulKharapkar/Email_Writer_Assistant/)  
 an ai powered email reply generator in your suitable tone.  
 
 ### [Skill Builder Roadmap](https://github.com/RahulKharapkar/Skill-Builder-Roadmap)  
@@ -47,12 +47,6 @@ A React-based roadmap tool to help developers track and enhance their skills.
 ---
 ## ⭐ If You Find My Projects Helpful  
 Your support means the world to me! If any of my projects have helped you, please **leave a star** 🌟 on the repository — it inspires me to keep building and sharing!  
-
----
-## 📈 GitHub Stats  
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulKharapkar&show_icons=true&theme=graywhite)  
-
----
 ---
 
 ## 📫 Let's Connect!  
