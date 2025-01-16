@@ -38,8 +38,8 @@ An internal marketplace app for employees to seek or offer services, products, o
 ### [JUnit Test Builder](https://github.com/RahulKharapkar/JUnitTestBuilder)
 Generates test cases covering all the scenarios of your java code.
 
-### [Tenants eBill Calculator](https://github.com/RahulKharapkar/Tenants-eBill-Calculator)  
-A web app for managing eBills with integrated QR code payment functionality.  
+### [Email Writer Assistant](https://rahulkharapkar.github.io/Email_Writer_Assistant/)  
+an ai powered email reply generator in your suitable tone.  
 
 ### [Skill Builder Roadmap](https://github.com/RahulKharapkar/Skill-Builder-Roadmap)  
 A React-based roadmap tool to help developers track and enhance their skills.  
@@ -60,9 +60,3 @@ Your support means the world to me! If any of my projects have helped you, pleas
 - Email: rahul.p.kharapkar@gmail.com  
 
 ---
-
-
-<!---
-RahulKharapkar/RahulKharapkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
