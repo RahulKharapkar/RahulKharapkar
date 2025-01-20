@@ -41,7 +41,7 @@ Generates test cases covering all the scenarios of your java code.
 ### [Email Writer Assistant](https://github.com/RahulKharapkar/Email_Writer_Assistant/)  
 an ai powered email reply generator in your suitable tone.  
 
-### [Skill Builder Roadmap](https://github.com/RahulKharapkar/Skill-Builder-Roadmap)  
+### [Skill Builder Roadmap](https://github.com/RahulKharapkar/SkillMaster-Pro)  
 A React-based roadmap tool to help developers track and enhance their skills.  
 
 ---
